@@ -187,6 +187,8 @@ Block Explorer URL :	https://explorer-sphinx.shardeum.org/ <br><br>
 
 ![image](https://user-images.githubusercontent.com/101635385/216525966-93d207b1-910c-4dbe-a787-65a85439c99a.png)
 
+3 - #### Ya da Bu linkten alabilirsiniz(https://chaindrop.org/?chainid=8082&token=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
+
 
 
 #### Cüzdanınıza 15 SHM geldikten sonra ADD STAKE diyerek stake işlemini bitirebilirsiniz.  <br>
